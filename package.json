@@ -1,0 +1,25 @@
+{
+  "name": "new-years-countdown",
+  "version": "1.0.0",
+  "description": "new years countdown node app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirPotatoIV/new-years-countdown.git"
+  },
+  "author": "Jake O'Toole",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SirPotatoIV/new-years-countdown/issues"
+  },
+  "homepage": "https://github.com/SirPotatoIV/new-years-countdown#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "path": "^0.12.7"
+  }
+}
